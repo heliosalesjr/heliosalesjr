@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heliosalesjr
 - 👀 I’m interested in all things creative
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and GDscript
 - 💞️ I’m looking to collaborate on educational and art projects
 - 📫 How to reach me on twitter: @ornitorrincos77
 
