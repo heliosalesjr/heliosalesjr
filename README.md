@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heliosalesjr)](https://github.com/anuraghazra/github-readme-stats)
+[![heliosalesjr's GitHub stats](![heliosalesjr's Stats](https://github-readme-stats.vercel.app/api?username=heliosalesjr&theme=monokai&show_icons=true&hide_border=false&count_private=true) ![heliosalesjr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=heliosalesjr&theme=monokai&hide_border=false) ![heliosalesjr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heliosalesjr&theme=monokai&show_icons=true&hide_border=false&layout=compact))
 
 <!---
 heliosalesjr/heliosalesjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
